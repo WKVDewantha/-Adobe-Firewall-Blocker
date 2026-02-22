@@ -167,9 +167,7 @@ C:\Program Files (x86)\Common Files\Adobe
 
 ## 📊 Flowchart
 
-```
-<img width="2816" height="1536" alt="Gemini_Generated_Image_wschwdwschwdwsch" src="https://github.com/user-attachments/assets/5dc7b132-77eb-483e-a62e-80cf8efe6dd7" />
----
+![Uploading Gemini_Generated_Image_wschwdwschwdwsch.png…]()
 
 ## 📝 Log Files
 
@@ -287,7 +285,6 @@ This tool is intended for legitimate use cases such as:
 - ✅ Added data clearing feature
 - ✅ Improved error handling
 - ✅ Better logging with full paths
-
 
 
 Made with ❤️ by [WKVDewantha](https://github.com/WKVDewantha)
