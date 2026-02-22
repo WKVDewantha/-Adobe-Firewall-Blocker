@@ -168,11 +168,7 @@ C:\Program Files (x86)\Common Files\Adobe
 ## 📊 Flowchart
 
 ```
-START → Check Admin → MAIN MENU → Choose Option → Execute → Return to Menu
-```
-
-For detailed flowchart, see [Flowchart Section](#flowchart).
-
+<img width="2816" height="1536" alt="Gemini_Generated_Image_wschwdwschwdwsch" src="https://github.com/user-attachments/assets/5dc7b132-77eb-483e-a62e-80cf8efe6dd7" />
 ---
 
 ## 📝 Log Files
@@ -291,6 +287,7 @@ This tool is intended for legitimate use cases such as:
 - ✅ Added data clearing feature
 - ✅ Improved error handling
 - ✅ Better logging with full paths
+
 
 
 Made with ❤️ by [WKVDewantha](https://github.com/WKVDewantha)
