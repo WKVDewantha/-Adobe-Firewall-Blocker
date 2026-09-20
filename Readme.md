@@ -290,3 +290,6 @@ This tool is intended for legitimate use cases such as:
 
 Made with ❤️ by [WKVDewantha](https://github.com/WKVDewantha)
 
+If this project helped you, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/mr_alex"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
